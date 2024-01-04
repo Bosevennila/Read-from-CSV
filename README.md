@@ -1,6 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
+To write a python program for reading content from a CSV file.
 
 ## ALGORITHM:
 ### Step 1:
@@ -26,7 +27,7 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-
 ![WhatsApp Image 2023-01-26 at 15 33 08](https://user-images.githubusercontent.com/119875375/214811167-814615fb-1225-44a0-8e0d-9a65641a45f2.jpg)
+
 ## RESULT:
-Thus the program is written to copy the contents from one file to another file
+Thus the program is written to copy the contents from one file to another file.
